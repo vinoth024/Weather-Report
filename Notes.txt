@@ -1,0 +1,1 @@
+Takes the Weather API from this website openweathermap.org to get the weather details for particular places
